@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TD2_TP2</string>
+    <string name="activity_name">Rôle</string>
+    <string name="pt_repartir">Points à répartir</string>
+    <string name="force">Force</string>
+    <string name="dexterite">Dextérité</string>
+    <string name="terminer">Terminer</string>
+    <string name="signe_plus">+</string>
+    <string name="signe_moins">-</string>
+    <string name="message_erreur">Il reste encore des points à attribuer</string>
+
+    <string-array name="gender">
+        <item>Homme</item>
+        <item>Femme</item>
+        <item>Sorcier</item>
+        <item>Guerrier</item>
+    </string-array>
+
+    <integer-array name="strength">
+        <item>50</item>
+        <item>40</item>
+        <item>30</item>
+        <item>60</item>
+    </integer-array>
+
+    <integer-array name="dex">
+        <item>30</item>
+        <item>50</item>
+        <item>60</item>
+        <item>40</item>
+    </integer-array>
+
+
+    <string name="base_point">10</string>
+</resources>
